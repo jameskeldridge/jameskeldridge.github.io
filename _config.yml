@@ -1,5 +1,5 @@
 name: James Eldridge, Urban Planner
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
-highlighter: rouge
+highlighter: pygments
 encoding: utf-8
